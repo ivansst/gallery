@@ -60,7 +60,6 @@ body {
 }
 
 h1 {
-  border-bottom: 3px solid white;
   display: flex;
   color: white;
   font-size: 50px;
@@ -74,9 +73,12 @@ h4 {
   letter-spacing: 3px;
 }
 
+.underline {
+  border-bottom: 1px solid white;
+}
+
 h4 {
   font-size: 20px;
-  border-bottom: 1px solid white;
 }
 
 a {
